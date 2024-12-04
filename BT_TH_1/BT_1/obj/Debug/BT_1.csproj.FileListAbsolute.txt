@@ -1,0 +1,10 @@
+F:\C#_WinForm\BT_TH_1\BT_1\bin\Debug\BT_1.exe.config
+F:\C#_WinForm\BT_TH_1\BT_1\bin\Debug\BT_1.exe
+F:\C#_WinForm\BT_TH_1\BT_1\bin\Debug\BT_1.pdb
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.csproj.AssemblyReference.cache
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.FrmBai1_1.resources
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.Properties.Resources.resources
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.csproj.GenerateResource.cache
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.csproj.CoreCompileInputs.cache
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.exe
+F:\C#_WinForm\BT_TH_1\BT_1\obj\Debug\BT_1.pdb

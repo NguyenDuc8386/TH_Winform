@@ -1,0 +1,10 @@
+F:\C#_WinForm\BT_TH_1\BT_7\bin\Debug\BT_7.exe.config
+F:\C#_WinForm\BT_TH_1\BT_7\bin\Debug\BT_7.exe
+F:\C#_WinForm\BT_TH_1\BT_7\bin\Debug\BT_7.pdb
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.csproj.AssemblyReference.cache
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.Form1.resources
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.Properties.Resources.resources
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.csproj.GenerateResource.cache
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.csproj.CoreCompileInputs.cache
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.exe
+F:\C#_WinForm\BT_TH_1\BT_7\obj\Debug\BT_7.pdb
